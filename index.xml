@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zhili&#39;s Website website</title>
+    <title>LinQuan&#39;s Website website</title>
     <link>/</link>
-    <description>Recent content on Zhili&#39;s Website website</description>
+    <description>Recent content on LinQuan&#39;s Website website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -22,9 +22,11 @@
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
       <guid>/2020/12/01/hello-r-markdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+      <description>R Markdown
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+summary(cars)
+## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
     <item>
@@ -44,11 +46,10 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       
       <guid>/about/</guid>
       <description>
-I am a Ph.D. student at Department of Statistics, Iowa State University, supervised by Dr. Peng Liu. Prior to entering ISU, I received my Bachelor&amp;rsquo;s Degree in Economics and Mathematics from Wuhan University, and Master&amp;rsquo;s Degree in Statistics from University of California, Davis.
+I am a Ph.D. student at Department of Statistics, Iowa State University.
 Research Interest:   Applied statistics
-  Machine learning
-  High dimensional data analysis
-  Clustering
+  Bistatistic analysis
+
   </description>
     </item>
     
@@ -67,10 +68,10 @@ Research Interest:   Applied statistics
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>Email   zlqiao@iastate.edu
-  zlqiao819@gmail.com
+      <description>Email   linquan@iastate.edu
+
   Office 3414 Snedecor Hall
-Ames, IA, 50011-1090</description>
+Ames, IA, 50010</description>
     </item>
     
     <item>
@@ -89,8 +90,9 @@ Ames, IA, 50011-1090</description>
       
       <guid>/research/</guid>
       <description>My research focuses on studying specific characteristics of biological data:
-Poisson hurdle model-based clustering for microbiome data (Submitted to Bioinformatics)
- We developed a Poisson hurdle model-based clustering method for count datasets to deal with its high sparsity.  Dirichlet Multinomial Biclustering for Compositional Microbiome Data  To mimic the sampling structure of microbiome datasets, we introduce a model-based biclustering method based on a Dirichlet Multinomial dstribution.  Bayesian Feature Selection and Causal Inference for Group Structured Data   In high-dimensional regression with subgroups of observations, we try to identify differentially expressed features by assigning a joint Lasso penalty.</description>
+Piecewise linear regression for leaf appearance rate data.
+ Survey analysis residential landlord decision-making during the COVID-19 Pandemic. 
+ Report and analysis phenology data.   </description>
     </item>
     
   </channel>
