@@ -1,1 +1,0 @@
-# [LinQuan's website](http://xiaolinzi1112.github.io)
